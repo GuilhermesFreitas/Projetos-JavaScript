@@ -26,6 +26,7 @@ alert(`Isso ai! Você acertou! ${numeroSecreto} com ${tentativas} ${palavraTenta
 
 
 //----------------------------------------------------------------------------
+//Alura:
 //template strings=>e um print formatado substituir " " por `` colocar ${variável}
 //diferente: != igual: ==
 //para atribuir mais um: ++
